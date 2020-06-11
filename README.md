@@ -761,6 +761,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C/C++.
-
+C++ Book Guide and List
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
